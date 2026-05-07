@@ -1,5 +1,5 @@
 
-package com.compusoft.sistema.model.empleado;
+package com.compusoft.sistema.model;
 
 public class empleado {
     private String idEmpleado; 
